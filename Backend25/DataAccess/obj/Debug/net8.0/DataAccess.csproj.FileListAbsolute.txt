@@ -1,0 +1,17 @@
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\bin\Debug\net8.0\Core.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\bin\Debug\net8.0\Core.pdb
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
