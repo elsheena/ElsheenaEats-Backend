@@ -1,4 +1,10 @@
 
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Core.Models;
+using DataAccess.DBContext;
+
 namespace API
 {
     public class Program
@@ -7,6 +13,15 @@ namespace API
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDbContext<ElsheenaDbContext>(x =>
+            x.UseNpgsql(builder.Configuration.GetConnectionString("Default")));
+
+            builder.Services
+            .AddIdentity<User, Role>()
+            .AddEntityFrameworkStores<ElsheenaDbContext>()
+            .AddDefaultTokenProviders()
+            .AddUserStore<UserStore<User, Role, ElsheenaDbContext, Guid>>() // Identity Configuration
+            .AddRoleStore<RoleStore<Role, ElsheenaDbContext, Guid>>();
             // Add services to the container.
 
             builder.Services.AddControllers();
