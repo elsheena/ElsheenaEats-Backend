@@ -18,7 +18,7 @@ namespace Core.Models
         public Status Status { get; set; }
         public Guid UserId { get; set; }
         public string Address { get; set; } = null!;
-        public virtual User User { get; set; } = null!; // nav property
+        public virtual User User { get; set; } = null!; 
         public virtual ICollection<DishInCart> DishCarts { get; set; } = new List<DishInCart>();
 
     }
