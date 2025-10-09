@@ -13,7 +13,7 @@
 
 **Backend Course | 3rd Year, 1st Semester**
 
-[🚀 Getting Started](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-getting-started) • [📖 API Documentation](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-api-documentation) • [🏗️ Architecture](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-technology-stack) • [📋 Requirements](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-project-requirements)
+[🚀 Getting Started](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-getting-started) • [📖 API Documentation](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-api-documentation) • [🏗️ Architecture](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-architecture) • [📋 Requirements](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-project-requirements)
 
 </div>
 
@@ -22,19 +22,16 @@
 - [Overview](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-overview)
 - [Features](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-features)
 - [Technology Stack](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-technology-stack)
-- [Architecture](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-technology-stack)
+- [Architecture](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-architecture)
 - [Getting Started](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-getting-started)
-- [Configuration](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-configuration)
+- [Configuration](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-configuration)
 - [API Documentation](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-api-documentation)
-- [Database Schema](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-database-schema)
+- [Database Schema](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-database-schema)
 - [Authentication](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-authentication)
 - [Development Workflow](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-development-workflow)
 - [Testing](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-testing)
 - [Deployment](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-deployment)
-- [Project Requirements](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-project-requirements)
-- [Subject Domain](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-subject-domain)
 - [Contributing](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-contributing)
-- [Academic Notes](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-academic-notes)
 
 ## 🍕 Overview
 
