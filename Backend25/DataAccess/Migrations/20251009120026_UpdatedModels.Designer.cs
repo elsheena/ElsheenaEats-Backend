@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace DataAccess.Migrations
 {
     [DbContext(typeof(ElsheenaDbContext))]
-    [Migration("20250928075410_initial")]
-    partial class initial
+    [Migration("20251009120026_UpdatedModels")]
+    partial class UpdatedModels
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,7 +40,7 @@ namespace DataAccess.Migrations
                     b.Property<DateTime>("CreateDateTime")
                         .HasColumnType("timestamp with time zone");
 
-                    b.Property<DateTime>("DeleteDate")
+                    b.Property<DateTime?>("DeleteDate")
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("Description")
@@ -104,7 +104,7 @@ namespace DataAccess.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("DishesCarts");
+                    b.ToTable("DishesInCarts");
                 });
 
             modelBuilder.Entity("Core.Models.Order", b =>
@@ -162,6 +162,9 @@ namespace DataAccess.Migrations
 
                     b.Property<DateTime>("ModifyDateTime")
                         .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Text")
+                        .HasColumnType("text");
 
                     b.Property<Guid>("UserId")
                         .HasColumnType("uuid");
@@ -512,7 +515,7 @@ namespace DataAccess.Migrations
             modelBuilder.Entity("Core.Models.Dish", b =>
                 {
                     b.Navigation("DishInCarts");
-                        
+
                     b.Navigation("Rating");
                 });
 

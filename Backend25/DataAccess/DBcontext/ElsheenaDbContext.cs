@@ -21,11 +21,17 @@ namespace DataAccess.DBContext
         public DbSet<Order> Orders { get; set; }
         public DbSet<Dish> Dishes { get; set; }
         public DbSet<Rating> Ratings { get; set; }
-        public DbSet<DishInCart> DishesCarts { get; set; }
+        public DbSet<DishInCart> DishesInCarts { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
+            
+            // Configure User entity
+            builder.Entity<User>(entity =>
+            {
+                entity.Property(e => e.RefreshToken).IsRequired(false);
+            });
         }
     }
 }
