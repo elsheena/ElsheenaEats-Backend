@@ -37,7 +37,7 @@ namespace DataAccess.Migrations
                     b.Property<DateTime>("CreateDateTime")
                         .HasColumnType("timestamp with time zone");
 
-                    b.Property<DateTime>("DeleteDate")
+                    b.Property<DateTime?>("DeleteDate")
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("Description")
@@ -101,7 +101,7 @@ namespace DataAccess.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("DishesCarts");
+                    b.ToTable("DishesInCarts");
                 });
 
             modelBuilder.Entity("Core.Models.Order", b =>
@@ -159,6 +159,9 @@ namespace DataAccess.Migrations
 
                     b.Property<DateTime>("ModifyDateTime")
                         .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Text")
+                        .HasColumnType("text");
 
                     b.Property<Guid>("UserId")
                         .HasColumnType("uuid");
@@ -272,7 +275,6 @@ namespace DataAccess.Migrations
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("RefreshToken")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("SecurityStamp")
@@ -403,13 +405,13 @@ namespace DataAccess.Migrations
             modelBuilder.Entity("Core.Models.DishInCart", b =>
                 {
                     b.HasOne("Core.Models.Dish", "Dish")
-                        .WithMany("DishCarts")
+                        .WithMany("DishInCarts")
                         .HasForeignKey("DishId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Core.Models.Order", "Order")
-                        .WithMany("DishCarts")
+                        .WithMany("DishInCarts")
                         .HasForeignKey("OrderId");
 
                     b.HasOne("Core.Models.User", "User")
@@ -508,14 +510,14 @@ namespace DataAccess.Migrations
 
             modelBuilder.Entity("Core.Models.Dish", b =>
                 {
-                    b.Navigation("DishCarts");
+                    b.Navigation("DishInCarts");
 
                     b.Navigation("Rating");
                 });
 
             modelBuilder.Entity("Core.Models.Order", b =>
                 {
-                    b.Navigation("DishCarts");
+                    b.Navigation("DishInCarts");
                 });
 
             modelBuilder.Entity("Core.Models.User", b =>
