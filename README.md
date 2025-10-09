@@ -13,7 +13,7 @@
 
 **Backend Course | 3rd Year, 1st Semester**
 
-[🚀 Getting Started](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-getting-started) • [📖 API Documentation](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-api-documentation) • [🏗️ Architecture](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-architecture) • [📋 Requirements](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-project-requirements)
+[🚀 Getting Started](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-getting-started) • [📖 API Documentation](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-api-documentation) • [🏗️ Architecture](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-technology-stack) • [📋 Requirements](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-project-requirements)
 
 </div>
 
@@ -22,7 +22,7 @@
 - [Overview](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-overview)
 - [Features](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-features)
 - [Technology Stack](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-technology-stack)
-- [Architecture](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-architecture)
+- [Architecture](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#%EF%B8%8F-technology-stack)
 - [Getting Started](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-getting-started)
 - [Configuration](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-configuration)
 - [API Documentation](https://github.com/elsheena/ElsheenaEats-Backend?tab=readme-ov-file#-api-documentation)
