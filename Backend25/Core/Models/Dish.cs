@@ -1,12 +1,13 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Core.Common;
 
 namespace Core.Models
 {
-    public class Dish
+    public class Dish : IBaseEntity
     {
         public Guid Id { get; set; }
         public string Name { get; set; } = null!;
@@ -18,8 +19,8 @@ namespace Core.Models
         public Category Category { get; set; }
         public DateTime CreateDateTime { get; set; }
         public DateTime ModifyDateTime { get; set; }
-        public DateTime DeleteDate { get; set; }
-        public virtual ICollection<DishInCart> DishCarts { get; set; } = new List<DishInCart>();
+        public DateTime? DeleteDate { get; set; }
+        public virtual ICollection<DishInCart> DishInCarts { get; set; } = new List<DishInCart>();
         public virtual ICollection<Rating> Rating { get; set; } = new List<Rating>();
 
     }
