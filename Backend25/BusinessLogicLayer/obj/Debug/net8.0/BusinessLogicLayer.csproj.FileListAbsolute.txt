@@ -1,0 +1,17 @@
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\bin\Debug\net8.0\Core.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\bin\Debug\net8.0\DataAccess.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\bin\Debug\net8.0\Core.pdb
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\bin\Debug\net8.0\DataAccess.pdb
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\FREERIDE\Documents\SE\Coding\Backend\Backend25\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
