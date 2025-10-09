@@ -13,28 +13,28 @@
 
 **Backend Course | 3rd Year, 1st Semester**
 
-[🚀 Getting Started](#getting-started) • [📖 API Documentation](#api-documentation) • [🏗️ Architecture](#architecture) • [📋 Requirements](#project-requirements)
+[🚀 Getting Started](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-getting-started) • [📖 API Documentation](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-api-documentation) • [🏗️ Architecture](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-architecture) • [📋 Requirements](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-project-requirements)
 
 </div>
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-- [Configuration](#configuration)
-- [API Documentation](#api-documentation)
-- [Database Schema](#database-schema)
-- [Authentication](#authentication)
-- [Development Workflow](#development-workflow)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Project Requirements](#project-requirements)
-- [Subject Domain](#subject-domain)
-- [Contributing](#contributing)
-- [Academic Notes](#academic-notes)
+- [Overview](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-overview)
+- [Features](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-features)
+- [Technology Stack](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-technology-stack)
+- [Architecture](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-architecture)
+- [Getting Started](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-getting-started)
+- [Configuration](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-configuration)
+- [API Documentation](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-api-documentation)
+- [Database Schema](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-database-schema)
+- [Authentication](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-authentication)
+- [Development Workflow](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-development-workflow)
+- [Testing](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-testing)
+- [Deployment](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-deployment)
+- [Project Requirements](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-project-requirements)
+- [Subject Domain](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-subject-domain)
+- [Contributing](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-contributing)
+- [Academic Notes](https://github.com/elsheena/ElsheenaEats-Backend/tree/elsheena-patch-1?tab=readme-ov-file#-academic-notes)
 
 ## 🍕 Overview
 
